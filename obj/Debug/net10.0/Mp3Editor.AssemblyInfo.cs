@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mp3Editor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1301200e37245f9c5c8e0b1c4f87969b39bf2125")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mp3Editor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mp3Editor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

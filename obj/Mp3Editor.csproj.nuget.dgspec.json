@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baras\\OneDrive\\Desktop\\Mp3Editor\\Mp3Editor.csproj": {}
+    "C:\\Users\\baras\\CiSharp\\Mp3Editor\\Mp3Editor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baras\\OneDrive\\Desktop\\Mp3Editor\\Mp3Editor.csproj": {
+    "C:\\Users\\baras\\CiSharp\\Mp3Editor\\Mp3Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baras\\OneDrive\\Desktop\\Mp3Editor\\Mp3Editor.csproj",
+        "projectUniqueName": "C:\\Users\\baras\\CiSharp\\Mp3Editor\\Mp3Editor.csproj",
         "projectName": "Mp3Editor",
-        "projectPath": "C:\\Users\\baras\\OneDrive\\Desktop\\Mp3Editor\\Mp3Editor.csproj",
+        "projectPath": "C:\\Users\\baras\\CiSharp\\Mp3Editor\\Mp3Editor.csproj",
         "packagesPath": "C:\\Users\\baras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baras\\OneDrive\\Desktop\\Mp3Editor\\obj\\",
+        "outputPath": "C:\\Users\\baras\\CiSharp\\Mp3Editor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
