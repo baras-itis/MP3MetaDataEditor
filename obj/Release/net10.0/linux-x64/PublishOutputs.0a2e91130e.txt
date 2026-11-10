@@ -1,0 +1,2 @@
+/home/iskander/source/repos/Mp3Editor/bin/Release/net10.0/linux-x64/publish/Mp3Editor.pdb
+/home/iskander/source/repos/Mp3Editor/bin/Release/net10.0/linux-x64/publish/Mp3Editor

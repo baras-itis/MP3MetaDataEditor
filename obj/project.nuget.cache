@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "meQ5lIyODYw=",
+  "dgSpecHash": "j4Ad2M6QN2w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\baras\\CiSharp\\Mp3Editor\\Mp3Editor.csproj",
+  "projectFilePath": "/home/iskander/source/repos/Mp3Editor/Mp3Editor.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\baras\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
+    "/home/iskander/.nuget/packages/taglibsharp/2.3.0/taglibsharp.2.3.0.nupkg.sha512"
   ],
   "logs": []
 }
